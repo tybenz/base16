@@ -20,21 +20,13 @@ a {
   color: inherit;
 }
 
-#logo {
-  float: left;
-}
-
-.clear {
-  clear: both;
-}
-
 #scheme-select {
-  margin: 25px 0 0 30px;
-  float: left;
+  float: right;
   padding: 20px;
   width: 140px;
   cursor: pointer;
   position: relative;
+  top: 23px;
 }
 
 #scheme-select:hover .scheme-list {
